@@ -1,0 +1,16 @@
+nav{
+   display: flex;
+   background: beige;
+   justify-content: flex-end;
+   padding-right: 5rem;
+}
+
+ul{
+    float: right;
+}
+
+nav ul li{
+    display: inline-block;
+    margin: 5px 20px;
+    font-size: 1.2rem;
+}
