@@ -11,7 +11,7 @@ const NavBar = () => {
             <li>How it works?</li>
             <li>Pricing</li>
             <li>Contact</li>
-            <li>Submit Request</li>
+            <li className='button'>Submit Request</li>
         </ul>
     </nav>
   )
